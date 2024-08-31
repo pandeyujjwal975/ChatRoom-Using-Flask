@@ -1,6 +1,3 @@
-This README.md section is a great addition for guiding users through setting up and running the Flask chat room application. Here’s a structured version that incorporates all your points:
-
----
 
 ## Flask Chat Room Application
 
